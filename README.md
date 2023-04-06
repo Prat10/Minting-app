@@ -5,12 +5,17 @@ Blockchain and How the ethereum work as backend ? and To use this
 you have to installed ethereum wallets such as metamask where you
 can transfer a fake ether to my website to get token for minting.."
 
-Technologies I used in this Project are:
+**⚡️Technologies :**
 
-React js 
-Ethereum 
-Ropsten Network
-Etherscan
-Chakra ui 
+ ```
+⁍ React
+⁍ Java Script
+⁍ html5
+⁍ css3
+⁍ Hardhat
+⁍ chakra ui
+⁍ Etherscan
+⁍ Ether.js
+ ```
 
 You can Explore my Website : https://freemintnfts.netlify.app/
